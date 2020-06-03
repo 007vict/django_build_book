@@ -1,4 +1,5 @@
 venv
 db
-.__pyc__
+.__pycache__
 book_info
+.idea
